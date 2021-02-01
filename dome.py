@@ -8,6 +8,9 @@ content = "Actions的信息！！！"+str(random.randint(0,99))
 """
 #服务器又炸啦！
 ##请尽快修复服务器
+
+这是push操作
+
 """
 data = {
    "text":title,
