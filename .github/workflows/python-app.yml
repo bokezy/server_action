@@ -2,9 +2,6 @@ name: AutoSignIn
 
 on:
   push:
-  gollum:
-  schedule:
-    - cron: 0 2 * * *
 
 jobs:
   AutoSignIn:
